@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angelroybernal
-- 👀 I’m interested in SRE and Cybersecurity
-- 🌱 I’m currently learning Groovy and Powershell
-- 💞️ I’m looking to collaborate on anything Open Source related
+- 👀 I’m interested in DevOps and Cybersecurity.
+- 🌱 I’m proficient on Python, Powershell, Shell Scripting and Docker. I'm currently learning about Data Security.
+- 💞️ I’m looking to collaborate on anything Open Source related.
 - 📫 Contact me on Twitter @bernalroy.
 
 <!---
